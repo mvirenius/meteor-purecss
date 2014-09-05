@@ -1,6 +1,6 @@
 Package.describe({
     summary: "Pure is a set of small, responsive CSS modules that you can use in every web project.",
-  version: "0.5.0",
+  version: "0.6.0",
   git: "https://github.com/MikkoVirenius/meteor-purecss.git"
 });
 
