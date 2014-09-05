@@ -1,8 +1,0 @@
-{
-  "name": "purecss",
-  "description": "Pure: A set of small, responsive CSS modules that you can use in every web project. http://purecss.io",
-  "homepage": "https://github.com/MikkoVirenius/meteor-purecss",
-  "author": "Mikko Virenius  (https://github.com/MikkoVirenius/)",
-  "version": "0.5.0",
-  "git": "https://github.com/MikkoVirenius/meteor-purecss.git"
-}
